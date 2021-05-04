@@ -1,0 +1,11 @@
+.main-container {
+    margin: auto;
+    width: 50%;
+}
+
+.loading {
+    color: #4569b0;
+    position: absolute;
+    top: 50%;
+    left: 45%;
+}
